@@ -10,6 +10,11 @@ This project implements a turn-based point guessing game on Arduino. The objecti
 
 If you want to learn other details like hardware used or other technical details, check out the [report](report/report.pdf).
 
+## Uploading Code to Arduinos
+
+- Upload the files in [`src/first_player`](src/first_player) to the first Arduino.
+- Upload the files in [`src/second_player`](src/second_player) to the second Arduino.
+
 ## Simulation Usage
 
 To simulate the game, you can use the Wokwi simulator. Since the simulator doesn't support two physical players, one player's input can be emulated via the serial monitor.
