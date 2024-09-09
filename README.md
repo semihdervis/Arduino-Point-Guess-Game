@@ -1,4 +1,4 @@
-# Arduino Point Guess Game
+# Arduino Hot & Cold Point Guess Game
 
 This project implements a turn-based point guessing game on Arduino. The objective is to guess the opponent's selected pixel using hot and cold instructions faster than they find yours. The game utilizes two Arduinos connected via serial communication.
 
