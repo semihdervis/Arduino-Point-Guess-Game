@@ -1,6 +1,0 @@
-- [x] Take videos and make gifs
-- [x] Add gifs to readme
-- [x] Too slow so just give link to gifs instead of autodisplay it
-- [x] Put real life demo image in readme 
-- [ ] Create reports folder
-- [ ] Mention reports in readme
