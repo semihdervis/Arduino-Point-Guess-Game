@@ -1,2 +1,3 @@
 - [ ] Take videos and make gifs
 - [ ] Add gifs to readme
+- [ ] Create reports folder

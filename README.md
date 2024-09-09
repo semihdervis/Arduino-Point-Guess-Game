@@ -8,7 +8,7 @@ This project implements a turn-based point guessing game on Arduino. The objecti
 
 To simulate the game, you can use the Wokwi simulator. Since the simulator doesn't support two physical players, one player's input can be emulated via the serial monitor.
 
-> **🌐 Try the simulation on [Wokwi](https://wokwi.com/projects/353125262858886145).**
+> **🌐 Try the simulation on [Wokwi](https://wokwi.com/projects/408512621518631937).**
 
 ### Step 1: Select a Pixel
 
