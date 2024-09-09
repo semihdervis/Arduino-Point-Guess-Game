@@ -4,7 +4,11 @@ This project implements a turn-based point guessing game on Arduino. The objecti
 
 > **🎥 Watch the demo on [YouTube](https://www.youtube.com/watch?v=zoDZ3X8Gaco&feature=youtu.be).**
 
-<img src="assets/images/demo_sample_image.png" alt="Demo Sample" width="500"/>
+<a href="https://www.youtube.com/watch?v=zoDZ3X8Gaco&feature=youtu.be">
+    <img src="assets/images/demo_sample_image.png" alt="Demo Sample" width="500"/>
+</a>
+
+If you want to learn other details like hardware used or other technical details, check out the [report](report/report.pdf).
 
 ## Simulation Usage
 
