@@ -44,3 +44,7 @@ Based on the feedback ("hot" if closer, "cold" if farther), make your next predi
 If the opponent correctly guesses your selection, send 1; otherwise, send 0 using the serial monitor.
 
 > **📷 Visit GIF: [Enter Opponent's Prediction](assets/gifs/enter_opponents_prediction.gif)**
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
